@@ -3,4 +3,8 @@ segunda linea
 
 
 
+<<<<<<< HEAD
 Nueva linea Zayin
+=======
+Nueva linea Fulano
+>>>>>>> c965192c80539d4bca0d362f730e1ed044b8f166
