@@ -1,3 +1,7 @@
 Teste
+<<<<<<< HEAD
 Prctica
 Primera linea
+=======
+Pactica
+>>>>>>> nova_branch
